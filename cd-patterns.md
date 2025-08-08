@@ -22,9 +22,8 @@ Configuration Management is “the process by which all artifacts relevant to yo
 
 ## **Configurable Third-Party Software (1)**
 
-|  | Pattern | Evaluate and use third-party software that can be easily configured, deployed, and automated. |  |
-| :---- | :---- | :---- | :---- |
-|  | **Anti-Patterns** | Procuring software that cannot be externally configured. Software without an API or command-line interface that forces teams to use the GUI only. |  |
+* **Pattern** Evaluate and use third-party software that can be easily configured, deployed, and automated.
+* **Anti-Patterns** Procuring software that cannot be externally configured. Software without an API or command-line interface that forces teams to use the GUI only.
 
 ## **Configuration Catalog (1)**
 
